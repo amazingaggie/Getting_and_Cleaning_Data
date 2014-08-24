@@ -19,4 +19,4 @@
   - 3. Run the [**run_analysis.R**](run_analysis.R) script in the same folder where the unziped files are located.    
        A file **"tidy_dataset.txt"** will be generated. (For a detailed description of its content, see [**CodeBook.md**](CodeBook.md))   
        
-- [**tidy_dataset.txt**](CodeBook.md) (The tidy dataset generated.)
+- [**tidy_dataset.txt**](tidy_dataset.txt) (The tidy dataset generated.)
